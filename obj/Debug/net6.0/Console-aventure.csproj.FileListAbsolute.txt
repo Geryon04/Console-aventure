@@ -1,0 +1,15 @@
+/home/juan/Documentos/proyectos simples/proyecto en consola C#/Console-aventure/bin/Debug/net6.0/Console-aventure
+/home/juan/Documentos/proyectos simples/proyecto en consola C#/Console-aventure/bin/Debug/net6.0/Console-aventure.deps.json
+/home/juan/Documentos/proyectos simples/proyecto en consola C#/Console-aventure/bin/Debug/net6.0/Console-aventure.runtimeconfig.json
+/home/juan/Documentos/proyectos simples/proyecto en consola C#/Console-aventure/bin/Debug/net6.0/Console-aventure.dll
+/home/juan/Documentos/proyectos simples/proyecto en consola C#/Console-aventure/bin/Debug/net6.0/ref/Console-aventure.dll
+/home/juan/Documentos/proyectos simples/proyecto en consola C#/Console-aventure/bin/Debug/net6.0/Console-aventure.pdb
+/home/juan/Documentos/proyectos simples/proyecto en consola C#/Console-aventure/obj/Debug/net6.0/Console-aventure.csproj.AssemblyReference.cache
+/home/juan/Documentos/proyectos simples/proyecto en consola C#/Console-aventure/obj/Debug/net6.0/Console-aventure.GeneratedMSBuildEditorConfig.editorconfig
+/home/juan/Documentos/proyectos simples/proyecto en consola C#/Console-aventure/obj/Debug/net6.0/Console-aventure.AssemblyInfoInputs.cache
+/home/juan/Documentos/proyectos simples/proyecto en consola C#/Console-aventure/obj/Debug/net6.0/Console-aventure.AssemblyInfo.cs
+/home/juan/Documentos/proyectos simples/proyecto en consola C#/Console-aventure/obj/Debug/net6.0/Console-aventure.csproj.CoreCompileInputs.cache
+/home/juan/Documentos/proyectos simples/proyecto en consola C#/Console-aventure/obj/Debug/net6.0/Console-aventure.dll
+/home/juan/Documentos/proyectos simples/proyecto en consola C#/Console-aventure/obj/Debug/net6.0/ref/Console-aventure.dll
+/home/juan/Documentos/proyectos simples/proyecto en consola C#/Console-aventure/obj/Debug/net6.0/Console-aventure.pdb
+/home/juan/Documentos/proyectos simples/proyecto en consola C#/Console-aventure/obj/Debug/net6.0/Console-aventure.genruntimeconfig.cache
